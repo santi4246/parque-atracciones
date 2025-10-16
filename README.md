@@ -139,7 +139,9 @@ npm run dev
 }
 ```
 ## 📄 Licencia
-MIT (o la que elijas)
+```
+Henry Bootcamp
+```
 ## 👤 Autor
 ```
 Santiago Romero / https://www.santiago-romero.online / https://www.linkedin.com/in/santiago-romero-santi4246/
