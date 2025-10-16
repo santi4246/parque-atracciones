@@ -1,0 +1,17 @@
+{
+  "name": "atracciones-ts",
+  "version": "1.0.0",
+  "description": "Proyecto de práctica con TypeScript para Programacion Orientada a Objetos (abstract class)",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "ts-node": "^10.9.2"
+  }
+}
